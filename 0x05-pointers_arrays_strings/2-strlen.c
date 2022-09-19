@@ -6,6 +6,7 @@
  *
  * return: String length
  */
+
 int _strlen(char *s)
 {
 	int c = 0;
@@ -14,6 +15,5 @@ int _strlen(char *s)
 	{
 		c++;
 	}
-	
 	return (c);
 }
