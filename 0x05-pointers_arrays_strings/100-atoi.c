@@ -28,4 +28,5 @@ int _atoi(char *s)
 	}
 	res = sig * res;
 	return (res);
+
 }
